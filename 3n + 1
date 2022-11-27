@@ -1,3 +1,5 @@
+#I haven't figured it out on github yet
+#it's python
 print('Hi!\nthis code is a wrong solution to the collatz conjecture, but from the programming side it is a very interesting topic!\nAt least for me\nIf the code stops, then the collatz hypothesis is not valid\n\nSorry for my English...\n')
 input('wrine anything for start\n')
 def umm(n):
